@@ -8,7 +8,7 @@ A solution for ios hook view id(给iOS应用自动生成控件id)
 
 将如下四个文件拖进iOS项目目录下并参与编译即可生效(利用了OC的category特性)
 
-```
+```objc
 iosHookViewId/hookViewId/UIResponder+UIAutoTest.h
 iosHookViewId/hookViewId/UIResponder+UIAutoTest.m
 iosHookViewId/hookViewId/UIView+UIAutoTest.h
